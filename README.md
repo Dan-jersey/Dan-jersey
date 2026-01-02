@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://files.catbox.moe/9tk8lb.jpg" alt="Kyotaka Banner" width="100%">
+</p>
 
 <h2 align="center">✘『 𝑲𝒀𝑶𝑻𝑨𝑲𝑨 』✘</h2>
 
@@ -7,9 +10,32 @@
 </p>
 
 
-- 💻 Langages : Python • JavaScript • Bash • PHP
-- ⚔️ Hacking Éthique • Automatisation • Bots
-- 🌐 APIs • Termux • Web • IA
-- 📂 En mission avec la Digital Crew 𓆩 243 𓆪
+### 🩸 Identité
 
-> "Le code est une arme, l’esprit en est le déclencheur."  
+Je ne code pas pour faire du bruit.  
+Je code pour **comprendre**, **automatiser**, **contrôler**.  
+
+Le terminal est mon laboratoire.  
+Les scripts sont mes extensions mentales.  
+Chaque projet est une expérience, pas une vitrine.
+
+
+### ⚙️ Domaines de maîtrise
+
+- 💻 **Langages** : Python • JavaScript • Bash • PHP  
+- ⚔️ **Hacking éthique** • Automatisation • Bots  
+- 🌐 **APIs** • Termux • Web • IA  
+- 📂 En mission avec la **✘ 𝐊𝐘𝐎𝐓𝐀𝐊𝐀 // 𝐙𝐎𝐍𝐄-𝐗 ✘**
+
+
+### 🧪 Philosophie
+
+Je démonte les systèmes pour apprendre comment ils respirent.  
+Je construis des outils pour aller plus vite que le chaos.  
+Pas de shortcuts mentaux. Pas de magie. Juste de la### 🕶️ Status
+
+```txt
+[ ONLINE ]
+Mode        : Kyotaka
+Environnement : Termux / CLI
+Vision      : Long terme
