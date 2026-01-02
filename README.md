@@ -22,7 +22,7 @@ Chaque projet est une expérience, pas une vitrine.
 
 ### ⚙️ Domaines de maîtrise
 
-- 💻 **Langages** : Python • JavaScript • Bash • PHP  
+- 💻 **Langages** : Python • JavaScript • Bash • PHP  • et plus encore...
 - ⚔️ **Hacking éthique** • Automatisation • Bots  
 - 🌐 **APIs** • Termux • Web • IA  
 - 📂 En mission avec la **✘ 𝐊𝐘𝐎𝐓𝐀𝐊𝐀 // 𝐙𝐎𝐍𝐄-𝐗 ✘**
