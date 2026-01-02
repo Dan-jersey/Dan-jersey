@@ -39,3 +39,5 @@ Pas de shortcuts mentaux. Pas de magie. Juste de la### 🕶️ Status
 Mode        : Kyotaka
 Environnement : Termux / CLI
 Vision      : Long terme
+```
+> "Le code est une arme, l’esprit en est le déclencheur."
